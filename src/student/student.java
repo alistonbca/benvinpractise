@@ -4,6 +4,7 @@ public class student {
 	String name;
     String rollno;
     int age;
+    int y;
     
     
    public student()
